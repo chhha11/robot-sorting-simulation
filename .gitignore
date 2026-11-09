@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+outputs/
+robot_assets_source/
+PROJECT_CLEANUP_ANALYSIS.md
